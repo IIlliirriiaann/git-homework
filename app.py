@@ -23,5 +23,8 @@ def main(argv=None):
         print("Error:", e, file=sys.stderr)
         sys.exit(1)
 
+def multiply(a, b):
+    return a * b
+
 if __name__ == "__main__":
     main()
