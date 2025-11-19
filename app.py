@@ -1,4 +1,5 @@
 """
+Hello there !
 Simple CLI for calculator operations.
 Usage:
   python app.py add 2 3
